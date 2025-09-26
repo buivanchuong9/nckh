@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center" style="text-align: center;">
 
 <h1>openpilot</h1>
@@ -98,7 +97,6 @@ The driver-facing camera and microphone are only logged if you explicitly opt-in
 
 By using openpilot, you agree to [our Privacy Policy](https://comma.ai/privacy). You understand that use of this software or its related services will generate certain types of user data, which may be logged and stored at the sole discretion of comma. By accepting this agreement, you grant an irrevocable, perpetual, worldwide right to comma for the use of this data.
 </details>
-=======
 <div align="center" style="text-align: center;">
 
 <h1>openpilot</h1>
@@ -129,15 +127,6 @@ Quick start: `bash <(curl -fsSL openpilot.comma.ai)`
 [![Discord](https://img.shields.io/discord/469524606043160576)](https://discord.comma.ai)
 
 </div>
-
-<table>
-  <tr>
-    <td><a href="https://youtu.be/NmBfgOanCyk" title="Video By Greer Viau"><img src="https://github.com/commaai/openpilot/assets/8762862/2f7112ae-f748-4f39-b617-fabd689c3772"></a></td>
-    <td><a href="https://youtu.be/VHKyqZ7t8Gw" title="Video By Logan LeGrand"><img src="https://github.com/commaai/openpilot/assets/8762862/92351544-2833-40d7-9e0b-7ef7ae37ec4c"></a></td>
-    <td><a href="https://youtu.be/SUIZYzxtMQs" title="A drive to Taco Bell"><img src="https://github.com/commaai/openpilot/assets/8762862/05ceefc5-2628-439c-a9b2-89ce77dc6f63"></a></td>
-  </tr>
-</table>
-
 
 Using openpilot in a car
 ------
@@ -207,5 +196,4 @@ The driver-facing camera and microphone are only logged if you explicitly opt-in
 By using openpilot, you agree to [our Privacy Policy](https://comma.ai/privacy). You understand that use of this software or its related services will generate certain types of user data, which may be logged and stored at the sole discretion of comma. By accepting this agreement, you grant an irrevocable, perpetual, worldwide right to comma for the use of this data.
 </details>
 
->>>>>>> b3f667a (m)
-# nckh
+
